@@ -1,6 +1,6 @@
 # CommandCruiser: IoT Rover with MQTT Communication and Smart Obstacle Avoidance
 
-![CommandCruiser](./logo.svg)
+![CommandCruiser](./cover.png)
 
 The CommandCruiser is an exciting IoT project that showcases the seamless communication, smart obstacle avoidance, and intuitive control capabilities of a two-wheeled Arduino car. Powered by the ESP8266, this rover can be controlled using a custom Android app developed in Kotlin, enabling real-time interaction and engagement.
 
@@ -38,11 +38,11 @@ The CommandCruiser is a two-wheeled Arduino car designed to demonstrate the capa
 
 - Platform IO Vscode
 - Android Studio for app development
-- EMQX MQTT Broker (local or remote)
+- MQTT Broker (local or remote, EMQX)
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/CommandCruiser.git`
+1. Clone the repository: `git clone https://github.com/Muthu-Palaniyappan-OL/command_cruiser.git`
 2. Upload the Arduino code (`arduino/`) to the ESP8266 microcontroller using the VSCode Platform IO.
 3. Open the Android app project in Android Studio (`android/` directory).
 4. Configure the MQTT broker settings in the app code.
@@ -82,6 +82,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Experience the potential of IoT and robotics with the CommandCruiser! Its MQTT communication, smart obstacle avoidance, and user-friendly Android app showcase the exciting possibilities of modern technology. For more details, visit our [GitHub repository](https://github.com/yourusername/CommandCruiser).
+Experience the potential of IoT and robotics with the CommandCruiser! Its MQTT communication, smart obstacle avoidance, and user-friendly Android app showcase the exciting possibilities of modern technology. For more details, visit our [GitHub repository](https://github.com/Muthu-Palaniyappan-OL/command_cruiser).
 
-For inquiries, contact us at contact@commandcruiser.io. We look forward to your feedback and collaboration!
+For inquiries, contact us at muthu892542@gmail.com, We look forward to your feedback and collaboration!
