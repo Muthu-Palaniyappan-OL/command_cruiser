@@ -1,8 +1,12 @@
-# CommandCruiser: IoT Rover with MQTT Communication and Smart Obstacle Avoidance
+# CommandCruiser
 
 ![CommandCruiser](./cover.png)
 
 The CommandCruiser is an exciting IoT project that showcases the seamless communication, smart obstacle avoidance, and intuitive control capabilities of a two-wheeled Arduino car. Powered by the ESP8266, this rover can be controlled using a custom Android app developed in Kotlin, enabling real-time interaction and engagement.
+
+<a href="https://www.youtube.com/watch?v=s5YqESJWSWo">
+    <img src="https://img.shields.io/badge/click_here_for-demo-blue" alt="Click Here For Demo">
+</a>
 
 ## Table of Contents
 
